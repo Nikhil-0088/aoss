@@ -481,7 +481,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   left: 0;
   right: 0;
 }
-
+.c{
+  /* max-width: 500px; */
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
 #intro .intro-container {
   position: absolute;
   bottom: 0;
